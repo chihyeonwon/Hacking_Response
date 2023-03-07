@@ -1,7 +1,9 @@
 # Haking_Response
 컴퓨터공학과 해킹과 대응기술 정리입니다.
 
-[VMWARE에 Kali 리눅스 설치하기](https://blog.naver.com/nanisul2003/222998959523)
+[VMWARE Workstation Player 17 설치하기](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
+[VMWARE에 윈도우 XP 설치하기](https://blog.naver.com/nanisul2003/222998959523)
+[VMWARE에 리눅스 칼리-1, 칼리-2 설치하기](https://study-ce.tistory.com/64)
 
 ![image](https://user-images.githubusercontent.com/58906858/223426082-c6a89aa0-7bab-46ad-a1fc-f453dbb37faa.png)   
 ![image](https://user-images.githubusercontent.com/58906858/223426176-dba95e31-4a95-4c9a-a921-ba901d615f17.png)   
