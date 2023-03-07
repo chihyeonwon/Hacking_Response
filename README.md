@@ -28,6 +28,9 @@
 터미널에서 arp 명령어를 주면.. ip 주소를 확인할 수 있다..
 ![image](https://user-images.githubusercontent.com/58906858/223445349-c55ca46f-6cb9-42b2-9d81-f4d719e01033.png)
 
+## 칼리 리눅스 설치하기
+
+![image](https://user-images.githubusercontent.com/58906858/223458595-eb4ab9ec-cdc0-4c08-8f8e-4d10349de13a.png)
 
 
 
