@@ -18,7 +18,8 @@
 
 ## 설치가 끝나면..
 ![image](https://user-images.githubusercontent.com/58906858/223443354-bf65fd12-876a-421f-9b36-31a88cc700e0.png)   
-![image](https://user-images.githubusercontent.com/58906858/223444056-28bcaa88-77a3-4fe3-8455-76e8fb6b4201.png)   
+![image](https://user-images.githubusercontent.com/58906858/223444056-28bcaa88-77a3-4fe3-8455-76e8fb6b4201.png)      
+![image](https://user-images.githubusercontent.com/58906858/223445783-d6e394a3-adb2-4f8d-a96a-dc493e453d59.png)
 
 ## VMware Windows XP에서 ip 확인하기
 
