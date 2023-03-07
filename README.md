@@ -6,3 +6,15 @@
 ![image](https://user-images.githubusercontent.com/58906858/223426082-c6a89aa0-7bab-46ad-a1fc-f453dbb37faa.png)   
 ![image](https://user-images.githubusercontent.com/58906858/223426176-dba95e31-4a95-4c9a-a921-ba901d615f17.png)   
 ![image](https://user-images.githubusercontent.com/58906858/223426215-46cc80be-57cb-47b0-8d18-9d1e08bfc344.png)
+
+## VMware 실행
+![image](https://user-images.githubusercontent.com/58906858/223436199-a408c363-344d-461f-980f-29df35830dba.png)   
+![image](https://user-images.githubusercontent.com/58906858/223436311-4d346b10-09c1-4a8d-bb22-885b1c8f2228.png)   
+
+## Windows XP 운영체제 설치
+
+윈도우 XP iso파일을 넣어준다.
+![image](https://user-images.githubusercontent.com/58906858/223436396-45008dcb-d6b9-4e1d-b014-7a083601ce77.png)
+
+
+
