@@ -16,5 +16,10 @@
 윈도우 XP iso파일을 넣어준다.
 ![image](https://user-images.githubusercontent.com/58906858/223436396-45008dcb-d6b9-4e1d-b014-7a083601ce77.png)
 
+## 설치가 끝나면..
+![image](https://user-images.githubusercontent.com/58906858/223443354-bf65fd12-876a-421f-9b36-31a88cc700e0.png)   
+![image](https://user-images.githubusercontent.com/58906858/223444056-28bcaa88-77a3-4fe3-8455-76e8fb6b4201.png)   
+
+
 
 
