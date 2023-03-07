@@ -20,6 +20,11 @@
 ![image](https://user-images.githubusercontent.com/58906858/223443354-bf65fd12-876a-421f-9b36-31a88cc700e0.png)   
 ![image](https://user-images.githubusercontent.com/58906858/223444056-28bcaa88-77a3-4fe3-8455-76e8fb6b4201.png)   
 
+## VMware Windows XP에서 ip 확인하기
+
+터미널에서 arp 명령어를 주면.. ip 주소를 확인할 수 있다..
+![image](https://user-images.githubusercontent.com/58906858/223445349-c55ca46f-6cb9-42b2-9d81-f4d719e01033.png)
+
 
 
 
