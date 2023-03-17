@@ -93,3 +93,26 @@ iptables -A INPUT -p tcp -j DROP
 
 -s 옵션으로 송신지 주소를 추가하는 부분을 수정해야합니다.
 ```
+
+## Promiscuous mode 설정을 실습하고 과정을 설명하라.
+```
+ifconfig 명령어를 사용하여 인터페이스 이름을 확인합니다.
+ifconfig
+
+해당 인터페이스를 promiscuous mode로 설정합니다.
+ifconfig [인터페이스 이름] promisc
+
+예를 들어, eth0 인터페이스를 promiscuous mode로 설정하려면 다음 명령어를 실행합니다.
+ifconfig eth0 promisc
+
+promiscuous mode를 해제하려면 다음 명령어를 실행합니다.
+ifconfig [인터페이스 이름] -promisc
+
+
+예를 들어, eth0 인터페이스의 promiscuous mode를 해제하려면 다음 명령어를 실행합니다.
+ifconfig eth0 -promisc
+
+위의 명령어를 실행한 후, 해당 인터페이스는 모든 패킷을 수신할 수 있게 됩니다.
+promiscuous mode는 보안 검사, 네트워크 모니터링, 패킷 분석 등에 유용하게 사용될 수 있지만, 
+보안상의 이유로 일반적으로 사용하지 않는 것이 좋습니다.
+```
