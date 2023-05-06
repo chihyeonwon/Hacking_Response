@@ -208,3 +208,7 @@ CBC 운영모드를 이용하여 암호화하여 저장함으로써 외부로부
 그러나, 특정 상황에서는 시스템에서 감지한 트래픽이 정상적인 것으로 판단되어
 해당 트래픽을 허용하고 통과시키는 것이 좋을 수 있습니다.
 ```
+
+## Unable to locate Package dsniff 오류 해결
+
+(Unable to locate Package dsniff)[https://zeromini0.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-Unable-to-locate-Package-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95%EC%B9%BC%EB%A6%AC]
