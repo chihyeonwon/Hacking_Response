@@ -1,0 +1,3 @@
+공격자IP(Kali Linux) :192.168.137.13 LHOST (Master) 2021 port 27665
+agent : 192.168.137.108 (agent) 
+공격대상IP(Window) : 192.168.137.176 RHOST port x	
