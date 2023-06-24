@@ -1,6 +1,10 @@
 # Haking_Response
 컴퓨터공학과 해킹과 대응기술 정리입니다.
-
+![image](https://github.com/chihyeonWON/Hacking_Response/assets/58906858/fdd98fbe-4f1c-4cf7-b172-85473e5e05de)
+```
+해킹 관련 실습도 해보고 플립러닝으로 진행된 수업
+패논패였고 크게 해킹에 대한 부담없이 들을 수 있었던 과목
+```
 [VMWARE Workstation Player 17 설치하기](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
 [VMWARE에 윈도우 XP 설치하기](https://blog.naver.com/nanisul2003/222998959523)
 [VMWARE에 리눅스 칼리-1, 칼리-2 설치하기](https://digiconfactory.tistory.com/entry/VMWare-%EC%B9%BC%EB%A6%AC-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%B9%A0%EB%A5%B8%EC%84%A4%EC%B9%98)
